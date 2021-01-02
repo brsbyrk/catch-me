@@ -67,8 +67,6 @@ const createWindow = () => {
     }
   }, 100);
 
-
-
   // and load the index.html of the app.
   mainWindow.loadFile(path.join(__dirname, 'index.html'));
 
