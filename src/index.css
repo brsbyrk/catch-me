@@ -1,0 +1,17 @@
+.theBox {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 11pt;
+  overflow: auto;
+  margin: 0px;
+  width: 128px;
+  height: 128px;
+}
+
+body {
+  margin: 0px;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+
+}
